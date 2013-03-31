@@ -93,7 +93,9 @@ var app = {
                 {
                     // Your GCM push server needs to know the regID before it can push to this device
                     // here is where you might want to send it the regID for later use.
-                    alert('registration id = '+e.regid);
+					var generalElement = document.getElementById('general');
+					generalElement.value = e.regid;
+					alert('registration id = '+e.regid);
                 }
             break;
 

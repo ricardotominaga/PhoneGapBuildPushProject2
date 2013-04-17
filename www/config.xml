@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = 'http://www.w3.org/ns/widgets'
         xmlns:gap = 'http://phonegap.com/ns/1.0'
-        id        = "org.devgirl.pgb-push-app2"
+        id        = "br.com.pushtest"
         version   = "0.0.1">
-    <name>Push Plugin Sample</name>
+    <name>PUSHTEST</name>
 
     <description>
-        Push Plugin Sample for PhoneGap Build
+        PUSHTEST
     </description>
 
     <author href="http://devgirl.org" email="hschinsk@adobe.com">

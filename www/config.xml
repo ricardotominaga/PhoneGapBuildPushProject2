@@ -3,10 +3,10 @@
         xmlns:gap = 'http://phonegap.com/ns/1.0'
         id        = "br.com.pushtest"
         version   = "0.0.1">
-    <name>PUSHTEST</name>
+    <name>PUSHTEST2</name>
 
     <description>
-        PUSHTEST
+        PUSHTEST2
     </description>
 
     <author href="http://devgirl.org" email="hschinsk@adobe.com">

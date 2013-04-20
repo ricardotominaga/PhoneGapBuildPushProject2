@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = 'http://www.w3.org/ns/widgets'
         xmlns:gap = 'http://phonegap.com/ns/1.0'
-        id        = "br.com.pushtest"
+        id        = "br.com.pushtest3"
         version   = "0.0.1">
-    <name>PUSHTEST2</name>
+    <name>PUSHTEST3</name>
 
     <description>
-        PUSHTEST2
+        PUSHTEST3
     </description>
 
     <author href="http://devgirl.org" email="hschinsk@adobe.com">
